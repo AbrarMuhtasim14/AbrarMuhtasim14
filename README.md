@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://github.com/AbrarMuhtasim14/AbrarMuhtasim14/blob/main/Github_Banner.png)
+![Banner](https://github.com/AbrarMuhtasim14/AbrarMuhtasim14/blob/main/Github_Banner)
 
 # 👋 ABRAR MUHTASIM
 
