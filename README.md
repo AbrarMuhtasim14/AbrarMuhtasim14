@@ -1,175 +1,178 @@
-<!DOCTYPE html>
-<html lang="en" class="scroll-smooth">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Abrar Muhtasim | Agentic AI Engineer</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"/>
-  <style>
-    body {
-      background: radial-gradient(circle at center, #0a0a0a 0%, #000000 70%);
-      font-family: 'Inter', system-ui, sans-serif;
-    }
-    .neural-bg {
-      background: linear-gradient(45deg, #00ffea10, #7b00ff10, #ff00aa10);
-      background-size: 400% 400%;
-      animation: gradientShift 25s ease infinite;
-    }
-    @keyframes gradientShift {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-    .agent-card {
-      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    }
-    .agent-card:hover {
-      transform: translateY(-12px) scale(1.03);
-      box-shadow: 0 0 40px rgba(123, 0, 255, 0.4);
-    }
-    .glow-text {
-      text-shadow: 0 0 20px rgba(0, 255, 234, 0.6);
-    }
-    .terminal {
-      font-family: 'Courier New', monospace;
-      animation: blink 1s step-end infinite;
-    }
-  </style>
-</head>
-<body class="text-gray-200 neural-bg min-h-screen">
+<div align="center">
+  <img src="https://github.com/AbrarMuhtasim14/AbrarMuhtasim14/blob/main/Github_Banner.png" alt="Banner" width="100%"/>
+  
+  <h1>👋 ABRAR MUHTASIM</h1>
+  <h3>🤖 Agentic AI Engineer &nbsp;•&nbsp; 🧠 LLM Systems Architect</h3>
 
-  <!-- Navbar -->
-  <nav class="fixed top-0 w-full bg-black/80 backdrop-blur-md z-50 border-b border-cyan-500/20">
-    <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
-      <div class="flex items-center gap-3">
-        <span class="text-2xl">🧠</span>
-        <h1 class="text-xl font-bold tracking-tight">ABRAR MUHTASIM</h1>
-      </div>
-      <div class="flex gap-8 text-sm font-medium">
-        <a href="#agents" class="hover:text-cyan-400 transition">AGENTS</a>
-        <a href="#systems" class="hover:text-cyan-400 transition">SYSTEMS</a>
-        <a href="#research" class="hover:text-cyan-400 transition">RESEARCH</a>
-        <a href="#connect" class="hover:text-cyan-400 transition">CONNECT</a>
-      </div>
-    </div>
-  </nav>
+  <p>
+    <a href="https://linkedin.com/in/syed-muhtasim-3308611a6">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://huggingface.co/Abrar144">
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+    </a>
+    <a href="https://medium.com/@abrarm">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    </a>
+    <a href="mailto:abrarmuhtasim400@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 
-  <!-- Hero -->
-  <section class="min-h-screen flex items-center justify-center relative overflow-hidden">
-    <div class="absolute inset-0 bg-[radial-gradient(#22d3ee_0.8px,transparent_1px)] [background-size:40px_40px] opacity-10"></div>
-    
-    <div class="max-w-5xl mx-auto text-center px-6 relative z-10">
-      <h2 class="text-cyan-400 text-sm tracking-[4px] mb-4 font-mono">PROTOCOL v0.3.1 • ONLINE</h2>
-      <h1 class="text-7xl md:text-8xl font-bold mb-6 glow-text">
-        I BUILD<br/>AI THAT<br/><span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-purple-500 to-pink-500">THINKS FOR ITSELF</span>
-      </h1>
-      
-      <p class="text-xl text-gray-400 max-w-2xl mx-auto mb-10">
-        Agentic AI Engineer • Multi-Agent Systems • Memory Architectures • 
-        Tool-Using LLM Systems • Grounded Intelligence
+  <img src="https://komarev.com/ghpvc/?username=abrarmuhtasim14&label=Profile%20Views&color=6e40c9&style=flat-square" alt="Profile Views"/>
+</div>
+
+---
+
+<div align="center">
+  <h2>Building AI Systems That <span style="color:#00ff9d">Reason • Plan • Use Tools • Remember • Verify</span></h2>
+  <strong>Specializing in Multi-Agent Systems • Tool-Augmented LLMs • Reliable AI Workflows</strong>
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm an **Agentic AI Engineer** who builds production-grade AI systems where LLMs go beyond chatting — they **autonomously plan, route, call tools, maintain memory, and produce verifiable outputs**.
+
+My focus lies at the intersection of:
+- **Agentic Architecture** — Multi-agent orchestration, memory systems, and tool use
+- **LLM Engineering** — Prompt engineering, fine-tuning, grounding, and evaluation
+- **AI Product Engineering** — Turning research prototypes into reliable, deployable systems
+
+---
+
+## 🎯 Core Capabilities
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Agentic AI Engineering</h3>
+      <ul>
+        <li>Multi-agent collaboration & role specialization</li>
+        <li>Sequential & hierarchical orchestration</li>
+        <li>Intelligent query routing & intent detection</li>
+        <li>Tool-calling agents with ReAct & function calling</li>
+        <li>Advanced memory architectures (short-term, long-term, vector)</li>
+        <li>Anti-hallucination & verification frameworks</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ LLM Systems Engineering</h3>
+      <ul>
+        <li>LangChain, CrewAI, LlamaIndex, LiteLLM</li>
+        <li>Native tool calling & structured outputs</li>
+        <li>Redis & vector memory systems</li>
+        <li>Citation-grounded, retrieval-augmented generation</li>
+        <li>QLoRA fine-tuning & model evaluation</li>
+        <li>Production deployment (Gradio, Streamlit, APIs)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔥 Featured AI Agents
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">⚖️ California Legal AI</h3>
+      <p align="center">
+        <a href="https://github.com/AbrarMuhtasim14/legalagentv3">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
       </p>
-
-      <div class="flex gap-4 justify-center">
-        <a href="#systems" 
-           class="px-8 py-4 bg-gradient-to-r from-cyan-500 to-purple-600 rounded-xl font-semibold hover:scale-105 transition">
-          Explore My Systems →
+      <p><strong>Multi-agent legal research system</strong> that produces IRAC-structured, citation-verified legal memorandums.</p>
+      <ul>
+        <li>5-agent CrewAI pipeline</li>
+        <li>3-layer Redis memory architecture</li>
+        <li>Zero-trust citation system</li>
+        <li>4-layer anti-hallucination design</li>
+      </ul>
+      <p><strong>Tech:</strong> <code>CrewAI</code> <code>LangChain</code> <code>Redis</code> <code>Tavily</code> <code>CourtListener</code></p>
+    </td>
+    
+    <td width="33%" valign="top">
+      <h3 align="center">📈 SEC Assistant</h3>
+      <p align="center">
+        <a href="https://github.com/AbrarMuhtasim14/sec-assistant-finqa">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://github.com/AbrarMuhtasim14" target="_blank"
-           class="px-8 py-4 border border-cyan-400 rounded-xl hover:bg-cyan-400/10 transition">
-          <i class="fab fa-github mr-2"></i> GitHub
+        <a href="https://huggingface.co/Abrar144/sec-assistant-phi3-finqa">
+          <img src="https://img.shields.io/badge/Model-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
         </a>
-      </div>
-
-      <div class="mt-16 text-xs text-gray-500 font-mono flex justify-center gap-8">
-        <div>● 4 ACTIVE AGENTS</div>
-        <div>● 3 PUBLICATIONS</div>
-        <div>● 100% CITATION RATE</div>
-      </div>
-    </div>
-
-    <div class="absolute bottom-10 text-cyan-400 text-sm font-mono flex items-center gap-2">
-      <span class="terminal">█</span>
-      INITIALIZING AGENTIC CORE...
-    </div>
-  </section>
-
-  <!-- Agents Section -->
-  <section id="agents" class="py-24 border-t border-cyan-500/10">
-    <div class="max-w-7xl mx-auto px-6">
-      <h2 class="text-4xl font-bold text-center mb-16">Autonomous Agents I Deploy</h2>
-      
-      <div class="grid md:grid-cols-3 gap-8">
-        <div class="agent-card bg-zinc-950 border border-cyan-500/20 rounded-2xl p-8">
-          <h3 class="text-cyan-400 text-xl mb-4">⟐ Legal Research Agent</h3>
-          <p class="text-gray-400 mb-6">Multi-agent legal reasoning system using IRAC framework with zero-trust citation verification.</p>
-          <div class="text-xs uppercase tracking-widest text-purple-400">CrewAI • Redis Memory • CourtListener</div>
-        </div>
-
-        <div class="agent-card bg-zinc-950 border border-purple-500/20 rounded-2xl p-8">
-          <h3 class="text-purple-400 text-xl mb-4">⟐ Financial Truth Agent</h3>
-          <p class="text-gray-400 mb-6">Fine-tuned Phi-3 model trained to refuse unsupported claims and cite SEC filings accurately.</p>
-          <div class="text-xs uppercase tracking-widest text-cyan-400">QLoRA • RAG • Refusal Training</div>
-        </div>
-
-        <div class="agent-card bg-zinc-950 border border-pink-500/20 rounded-2xl p-8">
-          <h3 class="text-pink-400 text-xl mb-4">⟐ Business Intelligence Agent</h3>
-          <p class="text-gray-400 mb-6">Natural language analytics agent with deterministic SQL generation and anomaly detection.</p>
-          <div class="text-xs uppercase tracking-widest text-emerald-400">LiteLLM • PostgreSQL • Function Calling</div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Featured Systems -->
-  <section id="systems" class="py-24 bg-black/60">
-    <div class="max-w-7xl mx-auto px-6">
-      <h2 class="text-4xl font-bold text-center mb-16">Featured AI Systems</h2>
-      <!-- Add your project cards here similar to above but more detailed -->
-      <div class="text-center text-gray-400">
-        [Add your 3-4 best projects here with links, tech stack, and impact metrics]
-      </div>
-    </div>
-  </section>
-
-  <!-- Research -->
-  <section id="research" class="py-24">
-    <div class="max-w-4xl mx-auto px-6 text-center">
-      <h2 class="text-4xl font-bold mb-12">Research & Thought</h2>
-      <div class="space-y-8 text-left">
-        <a href="#" class="block p-6 bg-zinc-900/50 hover:bg-zinc-900 rounded-2xl border border-gray-700 hover:border-cyan-400 transition">
-          <h3 class="text-lg font-semibold">Optimizing Predictive Models for Drug-Induced Suicidal Risk (IEEE, 2025)</h3>
+      </p>
+      <p><strong>Citation-grounded financial Q&A model</strong> fine-tuned on SEC filings.</p>
+      <ul>
+        <li>Fine-tuned Phi-3-Mini (3.8B) with QLoRA</li>
+        <li>Citation rate improved from 80% → 100%</li>
+        <li>Trained to say "I don't know" when unsure</li>
+      </ul>
+      <p><strong>Tech:</strong> <code>Phi-3</code> <code>QLoRA</code> <code>TRL</code> <code>HuggingFace</code></p>
+    </td>
+    
+    <td width="33%" valign="top">
+      <h3 align="center">🏨 AtliQ Hospitality AI</h3>
+      <p align="center">
+        <a href="https://github.com/AbrarMuhtasim14/chat-with-data">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="#" class="block p-6 bg-zinc-900/50 hover:bg-zinc-900 rounded-2xl border border-gray-700 hover:border-cyan-400 transition">
-          <h3 class="text-lg font-semibold">Optimizing Decision-Making Through Customer-Centric Market Basket Analysis</h3>
-        </a>
-      </div>
-    </div>
-  </section>
+      </p>
+      <p><strong>Chat-with-your-data analytics agent</strong> for hotel business intelligence.</p>
+      <ul>
+        <li>Native function calling agent</li>
+        <li>Deterministic SQL engine for 24 KPIs</li>
+        <li>Anomaly detection & health scoring</li>
+      </ul>
+      <p><strong>Tech:</strong> <code>LiteLLM</code> <code>PostgreSQL</code> <code>Streamlit</code> <code>Plotly</code></p>
+    </td>
+  </tr>
+</table>
 
-  <!-- Connect -->
-  <section id="connect" class="py-24 border-t border-cyan-500/10">
-    <div class="max-w-7xl mx-auto px-6 text-center">
-      <h2 class="text-5xl font-bold mb-6">Let's Build the Future Together</h2>
-      <p class="text-xl text-gray-400 mb-10">Open to full-time roles, consulting, and collaborations in Agentic AI.</p>
-      
-      <div class="flex flex-wrap justify-center gap-4">
-        <a href="https://linkedin.com/in/syed-muhtasim-3308611a6" class="px-8 py-4 bg-zinc-900 hover:bg-zinc-800 rounded-full border border-cyan-400 flex items-center gap-2">
-          <i class="fab fa-linkedin"></i> LinkedIn
-        </a>
-        <a href="https://huggingface.co/Abrar144" class="px-8 py-4 bg-zinc-900 hover:bg-zinc-800 rounded-full border border-yellow-400 flex items-center gap-2">
-          <i class="fa-brands fa-hugging-face"></i> Hugging Face
-        </a>
-        <a href="mailto:abrarmuhtasim400@gmail.com" class="px-8 py-4 bg-gradient-to-r from-cyan-500 to-purple-600 rounded-full font-semibold">
-          Get In Touch
-        </a>
-      </div>
-    </div>
-  </section>
+---
 
-  <footer class="text-center py-10 text-xs text-gray-500 font-mono">
-    © 2025 • Built as an autonomous system by Abrar Muhtasim
-  </footer>
+## 📊 System Impact
 
-</body>
-</html>
+<div align="center">
+
+| Citation Rate | Answer Rate | Cost Reduction | Anti-Hallucination Layers | Fine-tuning Cost | Deterministic KPIs |
+|---------------|-------------|----------------|---------------------------|------------------|--------------------|
+| **80% → 100%** | **45% → 100%** | **~90%** | **4 Layers** | **$0** | **24 Metrics** |
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abrarmuhtasim14&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarmuhtasim14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+<div align="center">
+  <strong>Open to opportunities in Agentic AI, LLM Engineering, and AI Product roles.</strong><br><br>
+  <a href="https://linkedin.com/in/syed-muhtasim-3308611a6">Let's Connect</a>
+</div>
+
+---
+
+*Last updated: April 2026 • Building the future of reliable intelligence*
