@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-I’m an **AI Engineer focused on Agentic AI systems** — building applications where LLMs do more than chat: they **plan, route, call tools, maintain context, verify outputs, and automate real workflows**.
+I'm an **AI Engineer focused on Agentic AI systems** — building applications where LLMs do more than chat: they **plan, route, call tools, maintain context, verify outputs, and automate real workflows**.
 
 My work sits at the intersection of:
 
@@ -45,26 +45,26 @@ I enjoy designing systems that are not only smart, but also **reliable, verifiab
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 🧠 Agentic AI Engineering
-- Multi-agent systems with specialized roles
-- Sequential orchestration and context chaining
-- Query routing and intent classification
-- Tool-using agents with controlled execution
-- Memory-aware conversational systems
-- Anti-hallucination design patterns
-
+      <h3>🧠 Agentic AI Engineering</h3>
+      <ul>
+        <li>Multi-agent systems with specialized roles</li>
+        <li>Sequential orchestration and context chaining</li>
+        <li>Query routing and intent classification</li>
+        <li>Tool-using agents with controlled execution</li>
+        <li>Memory-aware conversational systems</li>
+        <li>Anti-hallucination design patterns</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-
-### ⚙️ LLM Systems Engineering
-- LangChain, CrewAI, LiteLLM, OpenRouter
-- Native function calling and ReAct-style workflows
-- Redis-based memory and caching architectures
-- Citation-grounded and retrieval-aware outputs
-- QLoRA fine-tuning and evaluation pipelines
-- Streamlit, Gradio, HuggingFace, Render deployment
-
+      <h3>⚙️ LLM Systems Engineering</h3>
+      <ul>
+        <li>LangChain, CrewAI, LiteLLM, OpenRouter</li>
+        <li>Native function calling and ReAct workflows</li>
+        <li>Redis-based memory and caching architectures</li>
+        <li>Citation-grounded and retrieval-aware outputs</li>
+        <li>QLoRA fine-tuning and evaluation pipelines</li>
+        <li>Streamlit, Gradio, HuggingFace, Render deployment</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -77,75 +77,69 @@ I enjoy designing systems that are not only smart, but also **reliable, verifiab
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">⚖️ California Legal AI</h3>
-      <div align="center">
+      <p align="center">
         <a href="https://github.com/AbrarMuhtasim14/legalagentv3">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-      </div>
-      <br>
-
-**Multi-agent legal research system** that transforms raw client facts into verified, IRAC-structured legal memorandums.
-
-**Highlights**
-- Built a **5-agent sequential pipeline** using **CrewAI + LangChain**
-- Designed a **3-layer Redis memory architecture** for session, context, and caching
-- Integrated **CourtListener, Tavily, and external legal search tools**
-- Enforced **zero-trust citations** — no citation enters output without tool verification
-- Added a **4-layer anti-hallucination system**
-- Implemented **query routing** for full research, follow-up, refinement, and clarification flows
-
-**Tech**
-`CrewAI` `LangChain` `Redis` `OpenRouter` `CourtListener API` `Tavily` `Gradio`
-
+      </p>
+      <p><strong>Multi-agent legal research system</strong> that transforms raw client facts into verified, IRAC-structured legal memorandums.</p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>Built a <strong>5-agent sequential pipeline</strong> using <strong>CrewAI + LangChain</strong></li>
+        <li>Designed a <strong>3-layer Redis memory architecture</strong> for session, context, and caching</li>
+        <li>Integrated <strong>CourtListener, Tavily, and external legal search tools</strong></li>
+        <li>Enforced <strong>zero-trust citations</strong> — no citation enters output without tool verification</li>
+        <li>Added a <strong>4-layer anti-hallucination system</strong></li>
+        <li>Implemented <strong>query routing</strong> for full research, follow-up, refinement, and clarification flows</li>
+      </ul>
+      <p><strong>Tech</strong><br/>
+        <code>CrewAI</code> <code>LangChain</code> <code>Redis</code> <code>OpenRouter</code> <code>CourtListener API</code> <code>Tavily</code> <code>Gradio</code>
+      </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">📈 SEC-Assistant</h3>
-      <div align="center">
+      <p align="center">
         <a href="https://github.com/AbrarMuhtasim14/sec-assistant-finqa">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="https://huggingface.co/Abrar144/sec-assistant-phi3-finqa">
           <img src="https://img.shields.io/badge/Model-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
         </a>
-      </div>
-      <br>
-
-**Citation-grounded financial Q&A model** fine-tuned to answer from SEC filings while refusing unsupported answers.
-
-**Highlights**
-- Fine-tuned **Phi-3-Mini (3.8B)** with **QLoRA**
-- Improved **citation rate from 80% to 100%**
-- Improved **answer rate from 45% to 100%**
-- Trained the model to say **“I don’t know”** when context lacks the answer
-- Used a **70/30 dataset mix** of normal + mismatched examples
-- Deployed as a **live HuggingFace demo**
-
-**Tech**
-`Phi-3-Mini` `QLoRA` `BitsAndBytes` `TRL` `SFTTrainer` `HuggingFace` `Gradio`
-
+      </p>
+      <p><strong>Citation-grounded financial Q&A model</strong> fine-tuned to answer from SEC filings while refusing unsupported answers.</p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>Fine-tuned <strong>Phi-3-Mini (3.8B)</strong> with <strong>QLoRA</strong></li>
+        <li>Improved <strong>citation rate from 80% to 100%</strong></li>
+        <li>Improved <strong>answer rate from 45% to 100%</strong></li>
+        <li>Trained the model to say <strong>"I don't know"</strong> when context lacks the answer</li>
+        <li>Used a <strong>70/30 dataset mix</strong> of normal + mismatched examples</li>
+        <li>Deployed as a <strong>live HuggingFace demo</strong></li>
+      </ul>
+      <p><strong>Tech</strong><br/>
+        <code>Phi-3-Mini</code> <code>QLoRA</code> <code>BitsAndBytes</code> <code>TRL</code> <code>SFTTrainer</code> <code>HuggingFace</code> <code>Gradio</code>
+      </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🏨 AtliQ Hospitality AI</h3>
-      <div align="center">
+      <p align="center">
         <a href="https://github.com/AbrarMuhtasim14/chat-with-data">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-      </div>
-      <br>
-
-**Enterprise AI analytics platform** for “chat with your data” hotel performance intelligence.
-
-**Highlights**
-- Built an AI agent with **native function calling**
-- Created a **deterministic SQL engine** for 24 business KPIs
-- Combined **LLM reasoning + tool execution** for natural language analytics
-- Added **4-layer anomaly detection** and property health scoring
-- Unified dashboard, monitoring, and agent answers with a **single metrics engine**
-- Designed for reliable business use with **SQL control and guardrails**
-
-**Tech**
-`Python` `LiteLLM` `OpenRouter` `PostgreSQL` `Supabase` `Streamlit` `Plotly`
-
+      </p>
+      <p><strong>Enterprise AI analytics platform</strong> for "chat with your data" hotel performance intelligence.</p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>Built an AI agent with <strong>native function calling</strong></li>
+        <li>Created a <strong>deterministic SQL engine</strong> for 24 business KPIs</li>
+        <li>Combined <strong>LLM reasoning + tool execution</strong> for natural language analytics</li>
+        <li>Added <strong>4-layer anomaly detection</strong> and property health scoring</li>
+        <li>Unified dashboard, monitoring, and agent answers with a <strong>single metrics engine</strong></li>
+        <li>Designed for reliable business use with <strong>SQL control and guardrails</strong></li>
+      </ul>
+      <p><strong>Tech</strong><br/>
+        <code>Python</code> <code>LiteLLM</code> <code>OpenRouter</code> <code>PostgreSQL</code> <code>Supabase</code> <code>Streamlit</code> <code>Plotly</code>
+      </p>
     </td>
   </tr>
 </table>
@@ -154,56 +148,60 @@ I enjoy designing systems that are not only smart, but also **reliable, verifiab
 
 ## 📊 Selected Impact
 
-<div align="center">
-
-| Impact Area | Result |
-|---|---:|
-| Citation grounding improvement | **80% → 100%** |
-| Answer rate improvement | **45% → 100%** |
-| Query cost reduction via routing | **~90%** |
-| Anti-hallucination layers in legal system | **4 layers** |
-| Fine-tuning cost | **$0** |
-| Fine-tuning time | **~25 minutes** |
-| Deterministic KPI coverage | **24 metrics** |
-| Research publications | **2** |
-
-</div>
+<table>
+  <tr>
+    <td align="center"><strong>Citation Grounding</strong><br/>80% → 100%</td>
+    <td align="center"><strong>Answer Rate</strong><br/>45% → 100%</td>
+    <td align="center"><strong>Cost Reduction</strong><br/>~90%</td>
+    <td align="center"><strong>Anti-Hallucination Layers</strong><br/>4 Layers</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Fine-Tuning Cost</strong><br/>$0</td>
+    <td align="center"><strong>Fine-Tuning Time</strong><br/>~25 min</td>
+    <td align="center"><strong>Deterministic KPIs</strong><br/>24 Metrics</td>
+    <td align="center"><strong>Publications</strong><br/>2</td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ AI Engineering Stack
 
-<div align="center">
+<p align="center">
+  <strong>Agentic AI / LLM Engineering</strong><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logoColor=white" />
+</p>
 
-### Agentic AI / LLM Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logoColor=white)
+<p align="center">
+  <strong>Fine-Tuning / ML</strong><br/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/QLoRA-EE4C2C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TRL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
-### Fine-Tuning / ML
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![QLoRA](https://img.shields.io/badge/QLoRA-EE4C2C?style=for-the-badge&logoColor=white)
-![TRL](https://img.shields.io/badge/TRL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p align="center">
+  <strong>Memory / Data / Infra</strong><br/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-### Memory / Data / Infra
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Apps / Deployment / Automation
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+<p align="center">
+  <strong>Apps / Deployment / Automation</strong><br/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
@@ -220,7 +218,7 @@ I enjoy designing systems that are not only smart, but also **reliable, verifiab
 
 ## 📚 Research & Publications
 
-- **[Optimizing Predictive Models for Drug-Induced Suicidal Risk](https://ieeexplore.ieee.org/document/11021794)** — IEEE Xplore, 2025  
+- **[Optimizing Predictive Models for Drug-Induced Suicidal Risk](https://ieeexplore.ieee.org/document/11021794)** — IEEE Xplore, 2025
 - **[Optimizing Decision-Making Through Customer-Centric Market Basket Analysis](https://www.acadlore.com/article/JOSA/2024_2_2/josa020201)** — Acadlore, 2024
 
 ---
@@ -231,9 +229,9 @@ I also write about data, analytics, and AI systems on **[Medium](https://medium.
 
 Some areas I enjoy writing about:
 - SQL and analytics case studies
-- business intelligence projects
-- applied machine learning
-- practical AI systems
+- Business intelligence projects
+- Applied machine learning
+- Practical AI systems
 
 ---
 
@@ -273,7 +271,7 @@ International Islamic University Chittagong
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Let's Connect
 
 <div align="center">
 
