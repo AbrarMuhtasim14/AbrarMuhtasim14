@@ -20,7 +20,7 @@
 
 ## Building AI systems that **reason, use tools, manage memory, and deliver grounded outputs**
 
-**Specializing in:** Multi-Agent Systems • LLM Orchestration • Tool Calling • Memory Architectures • Fine-Tuning • AI Workflow Automation
+**Focus Areas:** Agentic AI • Multi-Agent Systems • LLM Orchestration • Tool Calling • Memory Architectures • Fine-Tuning • AI Automation
 
 </div>
 
@@ -28,19 +28,19 @@
 
 ## 🚀 About Me
 
-I'm an **AI Engineer focused on Agentic AI systems** — building applications where LLMs do more than chat: they **plan, route, call tools, maintain context, verify outputs, and automate real workflows**.
+I'm an **AI Engineer focused on Agentic AI systems** — building applications where LLMs do more than chat: they **route tasks, use tools, preserve context, verify outputs, and automate real workflows**.
 
-My work sits at the intersection of:
+My strongest work is in:
 
-- **Agentic AI Engineering** — multi-agent pipelines, orchestration, tool usage, routing, memory
-- **LLM Engineering** — prompting, grounding, hallucination reduction, fine-tuning, evaluation
-- **AI Product Engineering** — deployable systems with dashboards, APIs, databases, and usable interfaces
+- **Agentic AI Engineering** — multi-agent orchestration, task routing, tool-using systems
+- **LLM Engineering** — prompt design, grounding, anti-hallucination, fine-tuning
+- **AI Product Systems** — deployable applications with memory, databases, dashboards, and automation layers
 
-I enjoy designing systems that are not only smart, but also **reliable, verifiable, and production-minded**.
+I care about building AI systems that are not just impressive in demos, but **reliable, verifiable, and useful in real workflows**.
 
 ---
 
-## 🎯 What I Focus On
+## 🎯 Core AI Engineering Focus
 
 <table>
   <tr>
@@ -59,11 +59,11 @@ I enjoy designing systems that are not only smart, but also **reliable, verifiab
       <h3>⚙️ LLM Systems Engineering</h3>
       <ul>
         <li>LangChain, CrewAI, LiteLLM, OpenRouter</li>
-        <li>Native function calling and ReAct workflows</li>
+        <li>Native function calling and ReAct-style workflows</li>
         <li>Redis-based memory and caching architectures</li>
         <li>Citation-grounded and retrieval-aware outputs</li>
         <li>QLoRA fine-tuning and evaluation pipelines</li>
-        <li>Streamlit, Gradio, HuggingFace, Render deployment</li>
+        <li>Gradio, Streamlit, HuggingFace, Render deployment</li>
       </ul>
     </td>
   </tr>
@@ -82,18 +82,16 @@ I enjoy designing systems that are not only smart, but also **reliable, verifiab
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p><strong>Multi-agent legal research system</strong> that transforms raw client facts into verified, IRAC-structured legal memorandums.</p>
-      <p><strong>Highlights</strong></p>
+      <p><strong>Multi-agent legal research system</strong> that transforms raw client facts into verified legal memorandums.</p>
       <ul>
         <li>Built a <strong>5-agent sequential pipeline</strong> using <strong>CrewAI + LangChain</strong></li>
-        <li>Designed a <strong>3-layer Redis memory architecture</strong> for session, context, and caching</li>
-        <li>Integrated <strong>CourtListener, Tavily, and external legal search tools</strong></li>
-        <li>Enforced <strong>zero-trust citations</strong> — no citation enters output without tool verification</li>
+        <li>Designed a <strong>3-layer Redis memory architecture</strong></li>
+        <li>Implemented <strong>zero-trust citation verification</strong> with external legal APIs</li>
         <li>Added a <strong>4-layer anti-hallucination system</strong></li>
-        <li>Implemented <strong>query routing</strong> for full research, follow-up, refinement, and clarification flows</li>
+        <li>Built <strong>query routing</strong> for research, follow-up, refinement, and clarification flows</li>
       </ul>
-      <p><strong>Tech</strong><br/>
-        <code>CrewAI</code> <code>LangChain</code> <code>Redis</code> <code>OpenRouter</code> <code>CourtListener API</code> <code>Tavily</code> <code>Gradio</code>
+      <p><strong>Tech:</strong><br/>
+        <code>CrewAI</code> <code>LangChain</code> <code>Redis</code> <code>OpenRouter</code> <code>CourtListener</code> <code>Tavily</code> <code>Gradio</code>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -106,18 +104,16 @@ I enjoy designing systems that are not only smart, but also **reliable, verifiab
           <img src="https://img.shields.io/badge/Model-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
         </a>
       </p>
-      <p><strong>Citation-grounded financial Q&A model</strong> fine-tuned to answer from SEC filings while refusing unsupported answers.</p>
-      <p><strong>Highlights</strong></p>
+      <p><strong>Citation-grounded financial Q&amp;A model</strong> fine-tuned to answer SEC filing questions with refusal behavior when evidence is missing.</p>
       <ul>
         <li>Fine-tuned <strong>Phi-3-Mini (3.8B)</strong> with <strong>QLoRA</strong></li>
         <li>Improved <strong>citation rate from 80% to 100%</strong></li>
         <li>Improved <strong>answer rate from 45% to 100%</strong></li>
-        <li>Trained the model to say <strong>"I don't know"</strong> when context lacks the answer</li>
-        <li>Used a <strong>70/30 dataset mix</strong> of normal + mismatched examples</li>
+        <li>Trained explicit <strong>"I don't know"</strong> behavior using mismatched examples</li>
         <li>Deployed as a <strong>live HuggingFace demo</strong></li>
       </ul>
-      <p><strong>Tech</strong><br/>
-        <code>Phi-3-Mini</code> <code>QLoRA</code> <code>BitsAndBytes</code> <code>TRL</code> <code>SFTTrainer</code> <code>HuggingFace</code> <code>Gradio</code>
+      <p><strong>Tech:</strong><br/>
+        <code>Phi-3-Mini</code> <code>QLoRA</code> <code>BitsAndBytes</code> <code>TRL</code> <code>HuggingFace</code> <code>Gradio</code>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -127,18 +123,16 @@ I enjoy designing systems that are not only smart, but also **reliable, verifiab
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p><strong>Enterprise AI analytics platform</strong> for "chat with your data" hotel performance intelligence.</p>
-      <p><strong>Highlights</strong></p>
+      <p><strong>Enterprise AI analytics platform</strong> for hotel KPI analysis through natural language and deterministic tool execution.</p>
       <ul>
         <li>Built an AI agent with <strong>native function calling</strong></li>
-        <li>Created a <strong>deterministic SQL engine</strong> for 24 business KPIs</li>
-        <li>Combined <strong>LLM reasoning + tool execution</strong> for natural language analytics</li>
-        <li>Added <strong>4-layer anomaly detection</strong> and property health scoring</li>
-        <li>Unified dashboard, monitoring, and agent answers with a <strong>single metrics engine</strong></li>
-        <li>Designed for reliable business use with <strong>SQL control and guardrails</strong></li>
+        <li>Created a <strong>deterministic SQL engine</strong> for 24 KPIs</li>
+        <li>Combined <strong>LLM reasoning + tool execution</strong> for analytics</li>
+        <li>Added <strong>4-layer anomaly detection</strong> and health scoring</li>
+        <li>Unified dashboard and agent outputs through a <strong>single metrics engine</strong></li>
       </ul>
-      <p><strong>Tech</strong><br/>
-        <code>Python</code> <code>LiteLLM</code> <code>OpenRouter</code> <code>PostgreSQL</code> <code>Supabase</code> <code>Streamlit</code> <code>Plotly</code>
+      <p><strong>Tech:</strong><br/>
+        <code>Python</code> <code>LiteLLM</code> <code>OpenRouter</code> <code>PostgreSQL</code> <code>Supabase</code> <code>Streamlit</code>
       </p>
     </td>
   </tr>
@@ -150,15 +144,15 @@ I enjoy designing systems that are not only smart, but also **reliable, verifiab
 
 <table>
   <tr>
-    <td align="center"><strong>Citation Grounding</strong><br/>80% → 100%</td>
+    <td align="center"><strong>Citation Rate</strong><br/>80% → 100%</td>
     <td align="center"><strong>Answer Rate</strong><br/>45% → 100%</td>
-    <td align="center"><strong>Cost Reduction</strong><br/>~90%</td>
-    <td align="center"><strong>Anti-Hallucination Layers</strong><br/>4 Layers</td>
+    <td align="center"><strong>Query Cost Reduction</strong><br/>~90%</td>
+    <td align="center"><strong>Anti-Hallucination</strong><br/>4 Layers</td>
   </tr>
   <tr>
     <td align="center"><strong>Fine-Tuning Cost</strong><br/>$0</td>
-    <td align="center"><strong>Fine-Tuning Time</strong><br/>~25 min</td>
-    <td align="center"><strong>Deterministic KPIs</strong><br/>24 Metrics</td>
+    <td align="center"><strong>Training Time</strong><br/>~25 min</td>
+    <td align="center"><strong>Deterministic Metrics</strong><br/>24 KPIs</td>
     <td align="center"><strong>Publications</strong><br/>2</td>
   </tr>
 </table>
@@ -174,6 +168,7 @@ I enjoy designing systems that are not only smart, but also **reliable, verifiab
   <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
@@ -181,8 +176,8 @@ I enjoy designing systems that are not only smart, but also **reliable, verifiab
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/QLoRA-EE4C2C?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/TRL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/BitsAndBytes-F97316?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 <p align="center">
@@ -200,38 +195,75 @@ I enjoy designing systems that are not only smart, but also **reliable, verifiab
   <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
 ## 🧪 Engineering Themes I Care About
 
-- **Grounded outputs over flashy outputs**
-- **Tool verification over model guessing**
-- **Memory and context design for better conversations**
-- **Deterministic systems where reliability matters**
-- **Prompt engineering with explicit constraints**
-- **Building AI products that are deployable, not just experimental**
+- Grounded outputs over flashy outputs
+- Tool verification over model guessing
+- Memory and context design for better conversations
+- Deterministic systems where reliability matters
+- Prompt engineering with explicit constraints
+- Building AI products that are deployable, not just experimental
 
 ---
 
-## 📚 Research & Publications
+## 📚 Publications
 
 - **[Optimizing Predictive Models for Drug-Induced Suicidal Risk](https://ieeexplore.ieee.org/document/11021794)** — IEEE Xplore, 2025
 - **[Optimizing Decision-Making Through Customer-Centric Market Basket Analysis](https://www.acadlore.com/article/JOSA/2024_2_2/josa020201)** — Acadlore, 2024
 
 ---
 
+## 📂 Additional Projects
+
+> These projects reflect my broader foundation in analytics, automation, and product building that supports my AI engineering work.
+
+### 📊 Data & Analytics Projects
+- **[E-Commerce Web Analytics](https://medium.com/@Abrarm/sql-driven-data-analysis-illuminating-growth-strategies-in-the-retail-e-commerce-landscape-dd7a0a3a2193)** — SQL analysis identifying **11% CTR increase**, **7% organic growth**, and **40% cart abandonment**
+- **[Customer Segmentation & Churn Analysis](https://medium.com/@Abrarm/customer-segmentation-and-cohort-analysis-in-retail-using-excel-bigquery-and-looker-315ce2859445)** — K-means + RFM analysis identifying **23% churn-risk customers**
+- **[Hotel Revenue Insights](https://medium.com/@Abrarm/revenue-insights-for-a-chain-hotel-brand-in-power-bi-b0e6449aa24d)** — Power BI dashboarding revealing **32% cancellation rate** and **52% weekend occupancy**
+- **[Hotel Booking Cancellation Analysis](https://medium.com/@Abrarm/a-python-data-analysis-project-to-understand-hotel-cancellations-fb3f0fee6eea)** — Random Forest model with **78.34% accuracy**
+
+### 🚀 Micro-SaaS Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🎁 BloomGift AI</h4>
+      <p align="center">
+        <a href="http://www.bloomgiftai.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">AI-powered gift and event recommendation platform</p>
+      <p align="center"><code>Lovable</code> <code>Supabase</code> <code>OpenRouter</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">💪 ThrivePath</h4>
+      <p align="center">
+        <a href="https://thrivepath.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">AI wellness assistant for meal planning and fitness routines</p>
+      <p align="center"><code>Lovable</code> <code>Supabase</code> <code>OpenRouter</code></p>
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Workflow Automation
+- Built AI workflow automations using **n8n**, including:
+  - **Automated email triage**
+  - **AI voice agent for scheduling** using **ElevenLabs + Google Calendar integration**
+
+---
+
 ## ✍️ Technical Writing
 
-I also write about data, analytics, and AI systems on **[Medium](https://medium.com/@abrarm)**.
-
-Some areas I enjoy writing about:
-- SQL and analytics case studies
-- Business intelligence projects
-- Applied machine learning
-- Practical AI systems
+I also write on **[Medium](https://medium.com/@abrarm)** about analytics, machine learning, and practical AI systems.
 
 ---
 
@@ -264,14 +296,14 @@ International Islamic University Chittagong
 
 ## 🌱 Currently Exploring
 
-- Advanced **agentic workflows**
-- Better **memory systems** for multi-turn AI
-- **Fine-tuning and alignment** strategies for trustworthy outputs
-- Production patterns for **AI automation systems**
+- Advanced agentic workflows
+- Better memory systems for multi-turn AI
+- Fine-tuning and alignment for trustworthy outputs
+- Production design patterns for AI automation systems
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let’s Connect
 
 <div align="center">
 
