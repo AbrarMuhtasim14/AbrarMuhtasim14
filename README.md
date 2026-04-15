@@ -96,7 +96,6 @@ I care about building AI that is not just impressive in demos — but **reliable
         <li>Designed a <strong>5-agent CrewAI pipeline</strong> where each agent has a distinct role: intake, legal retrieval, statute analysis, synthesis, and citation verification — with structured output passed sequentially between agents</li>
         <li>Implemented <strong>query routing</strong> to classify incoming requests into full research, follow-up, refinement, or clarification flows before any agent is invoked</li>
         <li>Built a <strong>zero-trust citation system</strong> where no legal reference enters the final memo unless it has been retrieved and confirmed through CourtListener or Tavily tool calls</li>
-        <li>Applied <strong>session and cache memory using Redis</strong> to preserve conversational context across follow-up queries without redundant API calls</li>
         <li>Engineered a <strong>4-layer output verification system</strong> to catch hallucinated citations, unsupported claims, and incomplete IRAC structure before final delivery</li>
       </ul>
       <p>
