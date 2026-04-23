@@ -85,7 +85,7 @@ I care about building AI that is not just impressive in demos — but **reliable
       <h3 align="center">⚖️ Multi-Agent Legal Research Pipeline</h3>
       <h4 align="center">Automated Case Law Retrieval, Statute Analysis and IRAC Memo Generation</h4>
       <p align="center">
-        <a href="https://github.com/AbrarMuhtasim14/legalagentv3">
+        <a href="https://medium.com/@Abrarm/i-built-a-multi-agent-legal-ai-that-actually-doesnt-hallucinate-here-s-the-architecture-8c67a6a6f30d">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
