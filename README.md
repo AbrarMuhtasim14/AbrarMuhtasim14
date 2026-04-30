@@ -312,28 +312,6 @@ I care about building AI that is not just impressive in demos — but **reliable
   </tr>
 </table>
 
-## GitHub Analytics
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrarmuhtasim14&theme=github_dark)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abrarmuhtasim14&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abrarmuhtasim14&theme=github_dark)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abrarmuhtasim14&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abrarmuhtasim14&theme=github_dark&utcOffset=6)
-
-</div>
-
 ---
 
 ## Education and Certifications
@@ -371,6 +349,29 @@ International Islamic University Chittagong — CGPA 3.39 / 4.00
 
 </div>
 
+## GitHub Analytics
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrarmuhtasim14&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abrarmuhtasim14&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abrarmuhtasim14&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abrarmuhtasim14&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abrarmuhtasim14&theme=github_dark&utcOffset=6)
+
+</div>
+
+---
 ---
 
 <div align="center">
