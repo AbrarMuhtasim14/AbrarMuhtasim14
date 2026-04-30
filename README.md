@@ -34,7 +34,7 @@
 
 ## About Me
 
-I am an **Agentic AI Engineer** who builds production-grade AI systems where LLMs go beyond answering questions — they **plan, route tasks, call external tools, manage conversational context, verify outputs, and automate real business workflows**.
+I am an **Agentic AI Engineer** who builds production-grade AI systems where LLMs go beyond answering questions — they **plan, route tasks, call external tools, manage conversational context, verify outputs, and automate real business workflows**.My professional background in enterprise data management at Hirdaramani Bangladesh gave me firsthand exposure to data quality problems — which directly motivated my focus on building reliable, grounded AI systems.
 
 My strongest work is in:
 
@@ -297,6 +297,20 @@ I care about building AI that is not just impressive in demos — but **reliable
 - **[Optimizing Decision-Making Through Customer-Centric Market Basket Analysis](https://www.acadlore.com/article/JOSA/2024_2_2/josa020201)** — Acadlore, 2024
 
 ---
+## Work Experience
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🏭 Master Data Management Specialist</h3>
+      <strong>Hirdaramani Bangladesh</strong> &nbsp;•&nbsp; Chattogram, Bangladesh &nbsp;•&nbsp; <em>March 2024 – April 2025</em>
+      <ul>
+        <li>Managed and maintained enterprise master data in <strong>Microsoft 365 Dynamics</strong>, ensuring accuracy and consistency across business-critical records</li>
+        <li>Collaborated with cross-functional teams to define data requirements, enforce data governance standards, and ensure accurate data creation at scale</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Analytics
 
