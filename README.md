@@ -25,8 +25,8 @@
 
 <div align="center">
 
-### I build verified AI systems, cost-sensitive ML models, and revenue intelligence pipelines that deliver measurable business impact.
-**Agentic AI &nbsp;•&nbsp; Multi-Agent Orchestration &nbsp;•&nbsp; Cost-Sensitive ML &nbsp;•&nbsp; SQL Analytics &nbsp;•&nbsp; Production Deployment**
+### I build verified Agentic AI systems, production Machine Learning engines, and actionable Data Intelligence pipelines.
+**Agentic AI &nbsp;•&nbsp; Multi-Agent Orchestration &nbsp;•&nbsp; Production ML &nbsp;•&nbsp; SQL Analytics &nbsp;•&nbsp; Cloud Deployment**
 
 </div>
 
@@ -34,14 +34,14 @@
 
 ## 👨‍💻 About Me
 
-I am an **Agentic AI Engineer and Applied Machine Learning Practitioner** specializing in building reliable, production-grade intelligence systems. Rather than isolated prototypes or standard demos, I design systems where models **reason over real data, call verified tools, quantify risk, and automate high-stakes workflows**.
+I am an **Agentic AI Engineer and Applied Machine Learning Practitioner** focused on engineering reliable, verifiable, and deployed intelligent systems. I specialize in designing systems where models **reason over structured domain data, invoke deterministic tools, quantify financial and operational risk, and automate mission-critical workflows**.
 
-My foundation in enterprise data management at **Hirdaramani Bangladesh** exposed me to real-world data governance, pipeline anomalies, and business operations — driving my commitment to **zero-trust grounding, temporal out-of-time validation, and explainable decision-making**.
+My background in enterprise data management at **Hirdaramani Bangladesh** gave me hands-on experience with master data architecture, data governance, and supply chain integrity — reinforcing my commitment to **zero-trust grounding, temporal out-of-time (OOT) validation, explainable AI (XAI), and real cloud deployment**.
 
-- 🤖 **Agentic AI & LLMs:** Multi-agent pipelines, anti-hallucination verification, deterministic tool-calling, and domain fine-tuning (QLoRA).
-- 🧠 **Machine Learning & Risk Modeling:** Cost-sensitive classification, temporal validation, class imbalance economics, and regulatory XAI (SHAP, GDPR Art. 22 / US FCRA).
-- 📊 **Data Analysis & BI:** End-to-end SQL analytics, cohort retention, econometric pricing elasticity, and executive Power BI / Streamlit dashboards.
-- 🚀 **Full-Cycle Deployment:** Packaging models into containerized cloud services on **Render** and interactive simulators on **Hugging Face Spaces**.
+- 🤖 **Agentic AI & LLMs:** Multi-agent orchestration, anti-hallucination verification, deterministic tool-calling, and QLoRA domain fine-tuning.
+- 🧠 **Machine Learning & Risk Modeling:** Cost-sensitive objective functions, temporal validation, class imbalance economics, and regulatory XAI (SHAP, GDPR Art. 22 / US FCRA).
+- 📊 **Data Analysis & BI:** End-to-end SQL analytics, cohort retention modeling, dynamic yield elasticity, and executive Power BI dashboards.
+- 🚀 **Full-Cycle Cloud Deployment:** Shipping containerized models as production web apps on **Render** and interactive simulators on **Hugging Face Spaces**.
 
 ---
 
@@ -56,17 +56,17 @@ My foundation in enterprise data management at **Hirdaramani Bangladesh** expose
     </td>
     <td align="center" width="25%">
       <h2>33%</h2>
-      <strong>Loss Reduction</strong><br/>
+      <strong>Credit Loss Reduction</strong><br/>
       <sub>Cost-sensitive XGBoost on 307K loan applications</sub>
     </td>
     <td align="center" width="25%">
       <h2>78.3%</h2>
-      <strong>Prediction Accuracy</strong><br/>
-      <sub>Hotel cancellation risk across 119K bookings</sub>
+      <strong>Cancellation Accuracy</strong><br/>
+      <sub>Random Forest classifier on 119K hotel bookings</sub>
     </td>
     <td align="center" width="25%">
       <h2>2</h2>
-      <strong>Publications</strong><br/>
+      <strong>Peer-Reviewed Papers</strong><br/>
       <sub>IEEE Xplore (2025) & Acadlore (2024)</sub>
     </td>
   </tr>
@@ -79,12 +79,12 @@ My foundation in enterprise data management at **Hirdaramani Bangladesh** expose
     <td align="center" width="25%">
       <h2>$0</h2>
       <strong>Fine-Tuning Cost</strong><br/>
-      <sub>Phi-3-Mini QLoRA on free-tier GPU (25 min)</sub>
+      <sub>Phi-3-Mini QLoRA on free GPU (25 min)</sub>
     </td>
     <td align="center" width="25%">
       <h2>$420K</h2>
       <strong>Recoverable Revenue</strong><br/>
-      <sub>Per 10K bookings via 4-pillar retention policy</sub>
+      <sub>Per 10K hotel bookings via ML retention policy</sub>
     </td>
     <td align="center" width="25%">
       <h2>4-Layer</h2>
@@ -96,9 +96,9 @@ My foundation in enterprise data management at **Hirdaramani Bangladesh** expose
 
 ---
 
-## 🤖 1. Agentic AI & LLM Systems
+## 🤖 1. Artificial Intelligence (AI) Projects
 
-Production-grade multi-agent architectures, domain fine-tuned language models, and tool-calling conversational platforms designed for zero hallucination and verifiable reasoning.
+Production-grade multi-agent pipelines, domain fine-tuned language models, and tool-calling conversational systems designed for zero hallucination and verifiable reasoning.
 
 <table>
   <tr>
@@ -111,12 +111,12 @@ Production-grade multi-agent architectures, domain fine-tuned language models, a
         </a>
       </p>
       <p>
-        Takes raw client facts and produces fully structured, citation-verified legal research memoranda adhering to IRAC (Issue, Rule, Application, Conclusion) legal standards.
+        Translates raw client fact patterns into citation-verified legal research memoranda adhering strictly to the IRAC (Issue, Rule, Application, Conclusion) framework.
       </p>
       <ul>
         <li><strong>5-Agent CrewAI Architecture:</strong> Intake, Legal Retrieval, Statute Analysis, Synthesis, and Citation Verification agents collaborating sequentially.</li>
-        <li><strong>Query Routing:</strong> Dispatches incoming queries into full research, follow-up, statute cross-referencing, or clarification paths.</li>
-        <li><strong>Zero-Trust Citation:</strong> No claim enters the final brief unless verified via CourtListener API or Tavily tool calls.</li>
+        <li><strong>Query Routing:</strong> Classifies incoming queries into full research, follow-up, statute cross-referencing, or clarification paths prior to agent execution.</li>
+        <li><strong>Zero-Trust Citation Engine:</strong> Ensures no claim enters the final brief unless verified against CourtListener API or Tavily tool calls.</li>
         <li><strong>4-Layer Guardrails:</strong> Autonomous verification layer eliminating hallucinated citations and unsupported arguments.</li>
       </ul>
       <p>
@@ -135,7 +135,7 @@ Production-grade multi-agent architectures, domain fine-tuned language models, a
         </a>
       </p>
       <p>
-        Extracts financial questions and SEC 10-K filing excerpts to output evidence-grounded answers with verifiable citations, featuring explicit refusals when data is insufficient.
+        Extracts financial questions and SEC 10-K filing excerpts to output evidence-grounded answers with verifiable citations and explicit refusals when data is absent.
       </p>
       <ul>
         <li><strong>QLoRA + 4-Bit Quantization:</strong> Fine-tuned Phi-3-Mini (3.8B) in 25 minutes on free-tier compute with BitsAndBytes and Hugging Face TRL.</li>
@@ -158,7 +158,7 @@ Production-grade multi-agent architectures, domain fine-tuned language models, a
         </a>
       </p>
       <p>
-        Translates natural language questions from hotel executives into SQL-backed KPI calculations, anomaly alerts, and dynamic visual dashboards without SQL generation hallucinations.
+        Translates natural language questions from hotel leadership into deterministic SQL-backed KPI calculations, anomaly alerts, and dynamic visual dashboards.
       </p>
       <ul>
         <li><strong>Native Function Calling:</strong> Directs user prompts into validated SQL tools rather than raw, risky SQL string generation.</li>
@@ -172,14 +172,14 @@ Production-grade multi-agent architectures, domain fine-tuned language models, a
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🚛 Review Intelligence & Triage Agent</h3>
-      <h4 align="center">Automated Sentiment Extraction, Issue Categorization & Triage Routing</h4>
+      <h4 align="center">Automated Sentiment Extraction, Issue Categorization & Operational Triage</h4>
       <p align="center">
         <a href="https://github.com/AbrarMuhtasim14/trucklagbe-review-agent">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p>
-        Autonomous agent analyzing customer reviews for the Truck Lagbe logistics app, translating user feedback into structured engineering and operational action items.
+        Autonomous agent analyzing customer reviews for the Truck Lagbe logistics platform, converting qualitative feedback into structured engineering and operational priorities.
       </p>
       <ul>
         <li><strong>Aspect-Based Sentiment Extraction:</strong> Dissects reviews into pricing, driver reliability, app usability, and customer support dimensions.</li>
@@ -195,19 +195,19 @@ Production-grade multi-agent architectures, domain fine-tuned language models, a
 
 <div align="center">
 
-> 💡 **Workflow Automation & Voice AI:** Built production-grade autonomous integrations with **n8n**, connecting multi-channel email triage and **ElevenLabs conversational voice agents** with **Google Calendar API** for real-time scheduling.
+> 💡 **Production Workflow Automation & Voice AI:** Built automated backend triage flows with **n8n**, connecting multi-channel email triage and **ElevenLabs conversational voice agents** with **Google Calendar API** for real-time scheduling.
 
 </div>
 
 ---
 
-## 🧠 2. Machine Learning & Quantitative Modeling
+## 🧠 2. Machine Learning (ML) Projects
 
-Rigorous, scientifically validated machine learning systems with out-of-time temporal testing, cost-sensitive objective functions, and regulatory explainability.
+Rigorous, production-deployed machine learning systems with trained predictive models, temporal out-of-time evaluation, cost-sensitive learning, and live web applications.
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">💳 Institutional Credit Risk Assessment & Underwriting Portal</h3>
       <h4 align="center">Clean-Room ML Benchmark & Decision Portal on 307,511 Loan Applications</h4>
       <p align="center">
@@ -225,7 +225,7 @@ Rigorous, scientifically validated machine learning systems with out-of-time tem
         </a>
       </p>
       <p>
-        An institutional-grade credit risk modeling framework addressing severe 8.07% class imbalance, temporal decay, and regulatory explainability across 307,511 loan applications.
+        An institutional-grade credit risk modeling framework addressing severe 8.07% class imbalance, temporal macroeconomic decay, and regulatory explainability across 307,511 loan applications.
       </p>
       <ul>
         <li><strong>Benchmarked 9 Configurations:</strong> Compared Logistic Regression, Random Forest, LightGBM, and XGBoost across SMOTE vs. Cost-Sensitive weighting.</li>
@@ -238,40 +238,9 @@ Rigorous, scientifically validated machine learning systems with out-of-time tem
         <code>Python 3.12</code> <code>XGBoost</code> <code>LightGBM</code> <code>Scikit-Learn</code> <code>SHAP</code> <code>Docker</code> <code>Render</code> <code>Hugging Face</code>
       </p>
     </td>
-    <td width="40%" valign="top">
-      <h3 align="center">🔬 Drug-Induced Suicidal Risk Predictive Modeling</h3>
-      <h4 align="center">Clinical ML & Risk Stratification (IEEE Xplore, 2025)</h4>
-      <p align="center">
-        <a href="https://ieeexplore.ieee.org/document/11021794">
-          <img src="https://img.shields.io/badge/IEEE_Xplore_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-        Peer-reviewed research investigating predictive algorithms to identify drug-induced psychiatric adverse events, enabling early clinical intervention.
-      </p>
-      <ul>
-        <li><strong>Biomedical Feature Engineering:</strong> Synthesized multi-dimensional clinical records, chemical classification codes, and patient demographics.</li>
-        <li><strong>Model Optimization:</strong> Evaluated ensemble architectures against high-dimensional clinical sparsity to maximize recall and specificity.</li>
-        <li><strong>Clinical Risk Scoring:</strong> Established a stratified scoring system designed to assist healthcare providers in adverse event surveillance.</li>
-      </ul>
-      <p>
-        <code>Clinical ML</code> <code>Ensemble Learning</code> <code>Feature Engineering</code> <code>Biostatistics</code> <code>Scikit-Learn</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 3. Data Analysis, SQL & Business Intelligence
-
-End-to-end data analysis, revenue optimization playbooks, advanced SQL cohort modeling, and executive business intelligence dashboards.
-
-<table>
-  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏨 Hotel Booking Cancellation & Revenue Intelligence</h3>
-      <h4 align="center">Risk Prediction Engine & 4-Pillar Revenue Playbook on 119,390 Bookings</h4>
+      <h3 align="center">🏨 Hotel Booking Cancellation Risk Engine</h3>
+      <h4 align="center">Production ML Classification & Revenue Intelligence on 119,390 Reservations</h4>
       <p align="center">
         <a href="https://github.com/AbrarMuhtasim14/Booking-Cancellation-Data-Analysis-in-Python">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -287,21 +256,52 @@ End-to-end data analysis, revenue optimization playbooks, advanced SQL cohort mo
         </a>
       </p>
       <p>
-        In-depth statistical investigation into the drivers of hotel cancellations across City and Resort hotels, combined with a production ML engine and actionable pricing strategies.
+        An end-to-end machine learning system analyzing 119,390 hotel reservations across Resort and City properties, predicting booking cancellation probabilities before check-in.
       </p>
       <ul>
-        <li><strong>Exploratory Data Analysis:</strong> Uncovered that cancellations account for 37.0% of all reservations, driven by long lead times (>100 days), high ADR spikes, and Online TA channel volatility.</li>
-        <li><strong>ML Risk Classification:</strong> Trained a Random Forest classifier achieving <strong>78.34% accuracy and 0.85 ROC-AUC</strong> with key predictors including lead time, deposit type, and special requests.</li>
-        <li><strong>4-Pillar Revenue Playbook:</strong> Designed an operational policy (tiered non-refundable deposits, dynamic lead-time limits, targeted direct booking perks) recovering <strong>$280K–$420K per 10,000 bookings</strong>.</li>
-        <li><strong>Interactive Web Portal:</strong> Deployed live on Render and Hugging Face with real-time risk assessment, financial impact calculations, and scenario simulation.</li>
+        <li><strong>Supervised ML Classification:</strong> Trained and tuned a Random Forest classifier achieving <strong>78.34% accuracy and 0.85 ROC-AUC</strong> with balanced precision and recall.</li>
+        <li><strong>Feature Importance Analysis:</strong> Uncovered that booking lead time (>100 days), non-refundable deposit types, ADR spikes, and Online Travel Agency (OTA) distribution channels are the primary cancellation drivers.</li>
+        <li><strong>4-Pillar Revenue Playbook:</strong> Formulated policy interventions (tiered non-refundable deposit schedules, dynamic lead-time caps, and direct-booking perks) recovering <strong>$280K–$420K per 10,000 bookings</strong>.</li>
+        <li><strong>Live Production Deployment:</strong> Containerized and deployed on Render Cloud and Hugging Face Spaces featuring interactive risk evaluation, scenario stress testing, and revenue recovery calculators.</li>
       </ul>
       <p>
-        <code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Scikit-Learn</code> <code>Streamlit</code> <code>Docker</code> <code>Render</code> <code>Hugging Face</code>
+        <code>Python</code> <code>Random Forest</code> <code>Scikit-Learn</code> <code>Pandas</code> <code>NumPy</code> <code>Streamlit</code> <code>Docker</code> <code>Render</code> <code>Hugging Face</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 3. Data Analysis & Business Intelligence Projects
+
+Comprehensive exploratory analysis, advanced SQL cohort pipelines, revenue yield dashboards, and enterprise data transformation projects.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Chain Hotel Brand Revenue Performance Analytics</h3>
+      <h4 align="center">Multi-Property Revenue Dashboard & Dynamic Yield Analytics in Power BI</h4>
+      <p align="center">
+        <a href="https://medium.com/@Abrarm/revenue-insights-for-a-chain-hotel-brand-in-power-bi-b0e6449aa24d">
+          <img src="https://img.shields.io/badge/Medium_Article-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        Interactive executive Power BI business intelligence dashboard tracking key revenue and operational metrics across multiple hotel properties to optimize rate structures.
+      </p>
+      <ul>
+        <li><strong>Core Metric Modeling:</strong> Developed robust DAX measures for RevPAR, ADR, Occupancy Rate, Realization Rate, and DSRN (Daily Sellable Room Nights).</li>
+        <li><strong>Yield & Channel Diagnostics:</strong> Uncovered a 32% cancellation baseline and identified 52% weekend occupancy peaks, isolating rate disparity between direct and OTA channels.</li>
+        <li><strong>Dynamic Pricing Levers:</strong> Provided actionable recommendations on dynamic weekend rate premiums and length-of-stay minimums to maximize monthly revenue yield.</li>
+      </ul>
+      <p>
+        <code>Power BI</code> <code>DAX</code> <code>Data Modeling</code> <code>Revenue Management</code> <code>Business Intelligence</code>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🛒 Retail E-Commerce SQL Growth Analytics</h3>
-      <h4 align="center">Funnel Conversion, Session Drop-Off & Checkout Optimization</h4>
+      <h4 align="center">Conversion Funnel Modeling, Session Drop-Off & Checkout Optimization</h4>
       <p align="center">
         <a href="https://medium.com/@Abrarm/sql-driven-data-analysis-illuminating-growth-strategies-in-the-retail-e-commerce-landscape-dd7a0a3a2193">
           <img src="https://img.shields.io/badge/Medium_Article-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
@@ -311,11 +311,11 @@ End-to-end data analysis, revenue optimization playbooks, advanced SQL cohort mo
         </a>
       </p>
       <p>
-        Advanced SQL pipeline auditing user navigation logs and purchase histories across an e-commerce platform to identify drop-off friction and conversion levers.
+        Advanced SQL pipeline auditing user navigation logs and transaction histories across a retail e-commerce platform to expose conversion bottlenecks and revenue leaks.
       </p>
       <ul>
-        <li><strong>Advanced SQL Mechanics:</strong> Engineered complex queries utilizing Common Table Expressions (CTEs), multi-step window functions, and sessionization logic.</li>
-        <li><strong>Funnel Bottleneck Discovery:</strong> Identified a critical 40% cart abandonment rate and recommended UX and payment gateway interventions.</li>
+        <li><strong>Advanced SQL Mechanics:</strong> Engineered complex queries utilizing Common Table Expressions (CTEs), multi-step window functions, and user sessionization logic.</li>
+        <li><strong>Funnel Bottleneck Discovery:</strong> Isolated a critical 40% cart abandonment drop-off and recommended targeted payment gateway and shipping friction fixes.</li>
         <li><strong>Growth Opportunities:</strong> Surfaced targeted search optimization and merchandising strategies driving an estimated 11% improvement in Click-Through Rates (CTR).</li>
       </ul>
       <p>
@@ -325,8 +325,8 @@ End-to-end data analysis, revenue optimization playbooks, advanced SQL cohort mo
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">👥 Customer Segmentation & Churn Cohorts</h3>
-      <h4 align="center">RFM Modeling & K-Means Clustering for Lifecycle Marketing</h4>
+      <h3 align="center">👥 Customer Segmentation & Churn Cohort Analytics</h3>
+      <h4 align="center">RFM Modeling & K-Means Behavioral Clustering for Retail Retention</h4>
       <p align="center">
         <a href="https://medium.com/@Abrarm/customer-segmentation-and-cohort-analysis-in-retail-using-excel-bigquery-and-looker-315ce2859445">
           <img src="https://img.shields.io/badge/Medium_Article-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
@@ -338,32 +338,89 @@ End-to-end data analysis, revenue optimization playbooks, advanced SQL cohort mo
       <ul>
         <li><strong>RFM & K-Means Segmentation:</strong> Clustered retail customer records into Champions, Loyal Customers, Potential Loyalists, and At-Risk groups.</li>
         <li><strong>23% Churn Cohort Identified:</strong> Isolated high-value accounts exhibiting declining transaction frequency before formal churn occurred.</li>
-        <li><strong>Looker & BigQuery Pipeline:</strong> Engineered automated SQL views feeding interactive Looker dashboards for marketing execution.</li>
+        <li><strong>Looker & BigQuery Pipeline:</strong> Engineered automated SQL views feeding interactive Looker dashboards for marketing campaign execution.</li>
       </ul>
       <p>
         <code>BigQuery</code> <code>SQL</code> <code>K-Means</code> <code>RFM Analysis</code> <code>Looker</code> <code>Excel</code>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Chain Hotel Brand Revenue Insights</h3>
-      <h4 align="center">Multi-Property Performance Dashboard & Dynamic Yield Analytics</h4>
+      <h3 align="center">🏢 Real Estate Data Cleaning & Enterprise SQL Transformation</h3>
+      <h4 align="center">Data Standardization, Deduplication & Normalization in SQL</h4>
       <p align="center">
-        <a href="https://medium.com/@Abrarm/revenue-insights-for-a-chain-hotel-brand-in-power-bi-b0e6449aa24d">
-          <img src="https://img.shields.io/badge/Medium_Article-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-        </a>
-        <a href="https://www.acadlore.com/article/JOSA/2024_2_2/josa020201">
-          <img src="https://img.shields.io/badge/Acadlore_Paper_2024-107C41?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+        <a href="https://github.com/AbrarMuhtasim14/Real-Estate-Data-Cleaning-in-SQL">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p>
-        Executive Power BI dashboard and academic transaction research (Acadlore 2024) delivering multi-property revenue intelligence and market basket insights.
+        Full-cycle SQL data transformation project converting raw, unstructured housing records into normalized, analytics-ready database tables.
       </p>
       <ul>
-        <li><strong>Power BI Yield Analytics:</strong> Tracked RevPAR, ADR, and weekend vs. weekday occupancy (52% weekend peak), isolating rate disparity across channels.</li>
-        <li><strong>Market Basket Optimization (Acadlore):</strong> Applied association rule algorithms (Apriori) to discover high-affinity product bundles and enhance cross-sell margins.</li>
+        <li><strong>Data Standardization & Parsing:</strong> Standardized date formats, split unformatted property addresses into discrete street/city/state fields using SUBSTRING and PARSENAME.</li>
+        <li><strong>Missing Value Imputation:</strong> Populated missing property addresses using self-joins based on duplicate Parcel IDs.</li>
+        <li><strong>Deduplication & Normalization:</strong> Flagged and purged redundant rows using CTEs and ROW_NUMBER() window functions, standardizing boolean and categorical indicators.</li>
       </ul>
       <p>
-        <code>Power BI</code> <code>DAX</code> <code>Data Modeling</code> <code>Market Basket Analysis</code> <code>Business Intelligence</code>
+        <code>SQL Server</code> <code>T-SQL</code> <code>Data Cleaning</code> <code>Database Normalization</code> <code>CTEs</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📄 4. Academic Research & Peer-Reviewed Publications
+
+Dedicated peer-reviewed scholarly publications covering clinical machine learning, adverse drug reaction modeling, and econometric transaction analytics.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔬 Optimizing Predictive Models for Drug-Induced Suicidal Risk</h3>
+      <h4 align="center">Clinical Machine Learning & Adverse Event Surveillance</h4>
+      <p align="center">
+        <a href="https://ieeexplore.ieee.org/document/11021794">
+          <img src="https://img.shields.io/badge/IEEE_Xplore_Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <strong>Published in:</strong> <em>IEEE Xplore (2025)</em><br/>
+        <strong>Citation Link:</strong> <a href="https://ieeexplore.ieee.org/document/11021794">IEEE Document #11021794</a>
+      </p>
+      <p>
+        Investigates optimized machine learning algorithms for identifying drug-induced psychiatric adverse events, providing healthcare systems with an early computational surveillance and screening tool.
+      </p>
+      <ul>
+        <li><strong>Biomedical Feature Engineering:</strong> Synthesized multi-dimensional clinical reports, active pharmacological ingredient classifications, and patient demographic indicators.</li>
+        <li><strong>Ensemble Architecture Optimization:</strong> Evaluated and tuned ensemble classifiers to handle high clinical sparsity while maximizing recall for rare, high-severity adverse psychiatric events.</li>
+        <li><strong>Clinical Risk Stratification:</strong> Formulated a robust risk-scoring index designed to assist clinical pharmacovigilance teams in post-market safety surveillance.</li>
+      </ul>
+      <p>
+        <code>Clinical ML</code> <code>Ensemble Methods</code> <code>Biostatistics</code> <code>Pharmacovigilance</code> <code>Scikit-Learn</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Optimizing Decision-Making Through Customer-Centric Market Basket Analysis</h3>
+      <h4 align="center">Econometric Transaction Mining & Margin Optimization</h4>
+      <p align="center">
+        <a href="https://www.acadlore.com/article/JOSA/2024_2_2/josa020201">
+          <img src="https://img.shields.io/badge/Acadlore_Journal_Paper-107C41?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <strong>Published in:</strong> <em>Journal of Operations and Strategic Analytics (Acadlore), Vol. 2, Iss. 2, 2024</em><br/>
+        <strong>Citation Link:</strong> <a href="https://www.acadlore.com/article/JOSA/2024_2_2/josa020201">Acadlore Article josa020201</a>
+      </p>
+      <p>
+        Applies econometric transaction modeling and association rule algorithms to retail transaction logs to discover consumer buying patterns, product affinities, and cross-selling strategies.
+      </p>
+      <ul>
+        <li><strong>Association Rule Mining:</strong> Implemented Apriori and FP-Growth algorithms across large-scale transaction databases, evaluating support, confidence, and lift thresholds.</li>
+        <li><strong>Cross-Selling Affinity Metrics:</strong> Discovered non-intuitive cross-category product affinities, isolating high-margin companion purchases.</li>
+        <li><strong>Strategic Decision Optimization:</strong> Translated statistical association rules into operational retail recommendations for merchandising layouts, dynamic bundling, and promotional pricing.</li>
+      </ul>
+      <p>
+        <code>Association Rule Mining</code> <code>Apriori</code> <code>Econometrics</code> <code>Transaction Analytics</code> <code>Python</code>
       </p>
     </td>
   </tr>
@@ -375,7 +432,7 @@ End-to-end data analysis, revenue optimization playbooks, advanced SQL cohort mo
 
 <div align="center">
 
-<p><strong>Agentic AI & LLM Systems</strong></p>
+<p><strong>Agentic AI & LLM Frameworks</strong></p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
@@ -413,16 +470,6 @@ End-to-end data analysis, revenue optimization playbooks, advanced SQL cohort mo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
-
-## 📚 Academic Research & Publications
-
-- 📄 **[Optimizing Predictive Models for Drug-Induced Suicidal Risk](https://ieeexplore.ieee.org/document/11021794)**  
-  *IEEE Xplore, 2025* &nbsp;•&nbsp; Peer-reviewed clinical machine learning research evaluating classification models and risk stratification algorithms on adverse drug reactions.
-
-- 📄 **[Optimizing Decision-Making Through Customer-Centric Market Basket Analysis](https://www.acadlore.com/article/JOSA/2024_2_2/josa020201)**  
-  *Journal of Operations and Strategic Analytics (Acadlore), 2024* &nbsp;•&nbsp; Association rule mining and econometric transaction analytics to optimize retail pricing, cross-selling, and margin yields.
 
 ---
 
