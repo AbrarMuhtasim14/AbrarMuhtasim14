@@ -278,12 +278,28 @@ I care about building AI that is not just impressive in demos — but **reliable
       <p><code>Lovable</code> <code>Supabase</code> <code>OpenRouter</code></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>💳 Credit Risk Modelling & Explainable AI (XAI)</h3>
+      <p>Reproducible, clean-room machine learning benchmark on 307,511 loan applications evaluating 9 model configurations across class imbalance strategies (SMOTE vs. Cost-Sensitive) with strict temporal validation (2018–19 train → 2020 OOT test), paired statistical significance testing, and GDPR Article 22 / US FCRA-compliant adverse action explainability.</p>
+      <p>
+        <a href="https://github.com/AbrarMuhtasim14/credit-risk-modelling">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://colab.research.google.com/github/AbrarMuhtasim14/credit-risk-modelling/blob/main/notebooks/credit_risk_standalone_pipeline.ipynb">
+          <img src="https://img.shields.io/badge/Colab_Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+        </a>
+      </p>
+      <p><code>Python 3.12</code> <code>XGBoost</code> <code>Scikit-Learn</code> <code>SHAP</code> <code>Cost-Sensitive Learning</code> <code>Temporal Validation</code></p>
+    </td>
+  </tr>
 </table>
 
 ### Workflow Automation
 - Built production AI automation workflows using **n8n** including automated email triage and an AI voice agent for appointment scheduling using **ElevenLabs** and **Google Calendar API**
 
 ### Analytics and Data Projects
+- **[Credit Risk Modelling & Explainable AI (XAI)](https://github.com/AbrarMuhtasim14/credit-risk-modelling)** — Clean-room ML benchmark on 307K loan applications comparing 9 model configurations across class imbalance strategies (SMOTE vs Cost-Sensitive) with strict temporal validation (2018–19 train → 2020 OOT test) and GDPR Art. 22 / US FCRA-compliant SHAP explainability. Proved cost-sensitive weighting cuts default losses by 33% with zero temporal decay.
 - **[E-Commerce Web Analytics](https://medium.com/@Abrarm/sql-driven-data-analysis-illuminating-growth-strategies-in-the-retail-e-commerce-landscape-dd7a0a3a2193)** — SQL analysis surfacing 11% CTR improvement opportunity and 40% cart abandonment pattern
 - **[Customer Segmentation and Churn Analysis](https://medium.com/@Abrarm/customer-segmentation-and-cohort-analysis-in-retail-using-excel-bigquery-and-looker-315ce2859445)** — K-means and RFM segmentation identifying 23% churn-risk customer cohort
 - **[Hotel Revenue Insights](https://medium.com/@Abrarm/revenue-insights-for-a-chain-hotel-brand-in-power-bi-b0e6449aa24d)** — Power BI dashboard revealing 32% cancellation rate and 52% weekend occupancy patterns
