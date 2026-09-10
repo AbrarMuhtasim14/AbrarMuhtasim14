@@ -4,7 +4,7 @@
 
 <br/>
 
-# ABRAR MUHTASIM
+# ABRAR MOHTASIM
 
 ### Agentic AI Engineer &nbsp;•&nbsp; Applied ML Practitioner &nbsp;•&nbsp; Data & Business Intelligence
 
