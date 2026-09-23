@@ -6,7 +6,7 @@
 
 # ABRAR MOHTASIM
 
-### Agentic AI Engineer &nbsp;•&nbsp; Applied ML Practitioner &nbsp;•&nbsp; Data & Business Intelligence
+### Machine Learning & AI Automation Enthusiast &nbsp;•&nbsp; Applied ML Practitioner &nbsp;•&nbsp; Intelligent Workflows
 
 <br/>
 
